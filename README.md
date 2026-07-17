@@ -14,4 +14,4 @@ La entidad gestionada en este sistema es **Personajes** (un catálogo de persona
 - Nivel
 
 ## Despliegue en VPS
-- **Enlace:** `http://IP_DEL_VPS/UEDLRact2_t4/`
+- **Enlace:** `http://143.244.154.171/UEDLRact2_t4/index.php`
